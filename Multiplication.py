@@ -1,0 +1,12 @@
+# Online Python compiler to write code and run Python online
+a = input("Enter a number ")
+print("1",int(a)*1)
+print("2",int(a)*2)
+print("3",int(a)*3)
+print("4",int(a)*4)
+print("5",int(a)*5)
+print("6",int(a)*6)
+print("7",int(a)*7)
+print("8",int(a)*8)
+print("9",int(a)*9)
+print("10",int(a)*10)
